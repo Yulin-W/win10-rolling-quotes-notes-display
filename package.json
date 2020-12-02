@@ -1,0 +1,25 @@
+{
+    "name": "win10-rolling-quotes-notes-display",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yulin-W/win10-rolling-quotes-notes-display.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yulin-W/win10-rolling-quotes-notes-display/issues"
+    },
+    "homepage": "https://github.com/Yulin-W/win10-rolling-quotes-notes-display#readme",
+    "devDependencies": {
+        "electron": "^11.0.3"
+    },
+    "dependencies": {}
+}
