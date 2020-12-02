@@ -1,7 +1,7 @@
-here's a notification
+1 here's a notification
 
-here's another notification
+2 here's another notification
 
-what about a third notification
+3 what about a third notification
 
-now let's go back to the first notification
+4 now let's go back to the first notification
