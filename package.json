@@ -5,6 +5,7 @@
     "main": "main.js",
     "scripts": {
         "start": "electron .",
+        "pack-time": "electron-packager .",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -19,7 +20,8 @@
     },
     "homepage": "https://github.com/Yulin-W/win10-rolling-quotes-notes-display#readme",
     "devDependencies": {
-        "electron": "^11.0.3"
+        "electron": "^11.0.3",
+        "electron-packager": "^15.1.0"
     },
     "dependencies": {}
 }

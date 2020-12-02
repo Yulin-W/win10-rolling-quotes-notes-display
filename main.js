@@ -7,8 +7,8 @@ var ipc = require('electron').ipcMain;
 
 function createWindow() {
     const win = new BrowserWindow({
-        width: 1000,
-        height: 1000,
+        width: 800,
+        height: 100,
         frame: false,
         webPreferences: {
             nodeIntegration: true,

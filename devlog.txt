@@ -1,0 +1,3 @@
+Built with electron, packaged with electron-packager
+
+Only tested on win10, no gurantees of it working on other platforms
