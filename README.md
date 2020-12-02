@@ -4,3 +4,4 @@
 - Suitable for, say, displaying inspirational quotes/reminders to oneself on the desktop, particularly those that needs reminding constantly
 - Built with electron, packaged with electron-packager
 - Only tested on Win10, no gurantees of it working elsewhere.
+- To use, download the "win10-rolling-quotes-notes-display-win32-x64.zip" file, extract; it contains the executable for the app and support files for the exe.
