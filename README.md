@@ -7,7 +7,7 @@ Note below has been sped up, each quote takes 5s in real time
 - Suitable for, say, displaying inspirational quotes/reminders to oneself on the desktop, particularly those that needs reminding constantly
 
 # Using the app
-- Download the "win10-rolling-quotes-notes-display-win32-x64.zip" file, extract; it contains the executable for the app and support files for the exe.
+- Download (from release) the "win10-rolling-quotes-notes-display-win32-x64.zip" file, extract; it contains the executable for the app and support files for the exe.
 
 # Other notes
 - Built with electron, packaged with electron-packager
